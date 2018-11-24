@@ -10,3 +10,9 @@ An demo developed on a smaller data, which could help you develop your model qui
 
 ### MSD
 Main project
+
+
+### TODO
+- .py file
+- pyspark based model
+
