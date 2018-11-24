@@ -15,6 +15,5 @@ Main project
 - This folder would be uploaded after my graduation :)
 
 ### TODO
-- .py file
 - pyspark based model
 
