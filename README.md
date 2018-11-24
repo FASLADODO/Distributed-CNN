@@ -16,4 +16,4 @@ Main project
 
 ### TODO
 - pyspark based model
-
+- reference: https://github.com/maxpumperla/elephas
