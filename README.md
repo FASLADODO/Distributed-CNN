@@ -14,6 +14,7 @@ Distributed DCNN based on keras and tensorflow.
 Main project
 - The data could be downloaded from http://www.samyzaf.com/ML/song_year/song_year.zip
 - You could go to https://samyzaf.com/ML/song_year/song_year.html for more information.
+- This folder would be uploaded after my graduation :)
 
 ### TODO
 - .py file
